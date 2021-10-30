@@ -3,7 +3,7 @@
 Plugin Name: Jin add loading prof img
 Author: webfood
 Plugin URI: http://webfood.info/
-Description: Jin add loading prof img.
+Description: Jin add loading prof img
 Version: 0.1
 Author URI: http://webfood.info/
 Text Domain: Jin add loading prof img
