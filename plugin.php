@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: Add loading prof img
+Plugin Name: Jin add loading prof img
 Author: webfood
 Plugin URI: http://webfood.info/
-Description: Add loading prof img.
+Description: Jin add loading prof img.
 Version: 0.1
 Author URI: http://webfood.info/
-Text Domain: Add loading prof img
+Text Domain: Jin add loading prof img
 Domain Path: /languages
 
 License:
